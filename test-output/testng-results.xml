@@ -2,16 +2,16 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-15T13:01:58Z" name="Default suite" finished-at="2022-11-15T13:02:06Z" duration-ms="8182">
+  <suite started-at="2022-11-18T06:21:55Z" name="Default suite" finished-at="2022-11-18T06:22:04Z" duration-ms="8969">
     <groups>
     </groups>
-    <test started-at="2022-11-15T13:01:58Z" name="Default test" finished-at="2022-11-15T13:02:06Z" duration-ms="8182">
+    <test started-at="2022-11-18T06:21:55Z" name="Default test" finished-at="2022-11-18T06:22:04Z" duration-ms="8969">
       <class name="com.getRequest.GetData">
-        <test-method signature="testBody()[pri:0, instance:com.getRequest.GetData@4009e306]" started-at="2022-11-15T18:31:58Z" name="testBody" finished-at="2022-11-15T18:32:05Z" duration-ms="6409" status="PASS">
+        <test-method signature="testBody()[pri:0, instance:com.getRequest.GetData@4009e306]" started-at="2022-11-18T11:51:55Z" name="testBody" finished-at="2022-11-18T11:52:03Z" duration-ms="8014" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBody -->
-        <test-method signature="testResponceCode()[pri:0, instance:com.getRequest.GetData@4009e306]" started-at="2022-11-15T18:32:05Z" name="testResponceCode" finished-at="2022-11-15T18:32:06Z" duration-ms="1478" status="PASS">
+        <test-method signature="testResponceCode()[pri:0, instance:com.getRequest.GetData@4009e306]" started-at="2022-11-18T11:52:03Z" name="testResponceCode" finished-at="2022-11-18T11:52:04Z" duration-ms="742" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testResponceCode -->
